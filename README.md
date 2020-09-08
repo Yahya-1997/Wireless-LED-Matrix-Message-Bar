@@ -11,7 +11,7 @@ the firmware rather than the development kits. The firmware uses the Lua scripti
 many open source projects.
 
 
-<img src="assets/nodemcu_LED_matrix.PNG" width = 550 height = 400>
+<img src="assets/nodemcu_LEDmatrix.PNG" width = 550 height = 400>
 
 # How to Use
 
